@@ -1,5 +1,5 @@
-cmake_minimum_required(VERSION 3.0)
-project(zad6)
+cmake_minimum_required(VERSION 3.1)
+project(Zad_6)
 
 add_library(test6 SHARED <src>)
 install(TARGETS test6 DESTINATION <dir1>)
