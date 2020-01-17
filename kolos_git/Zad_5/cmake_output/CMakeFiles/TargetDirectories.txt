@@ -1,0 +1,2 @@
+/home/duck/Desktop/kolos_git/Zad_5/cmake_output/CMakeFiles/edit_cache.dir
+/home/duck/Desktop/kolos_git/Zad_5/cmake_output/CMakeFiles/rebuild_cache.dir
